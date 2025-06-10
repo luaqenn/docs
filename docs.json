@@ -11,45 +11,38 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Rehber",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Giriş Bilgilendirme",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "java-bedrock",
+              "ozelkaynakpaketi"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Sistem Bilgilendirme",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "essentials/1",
+              "essentials/2",
+              "essentials/3",
+              "essentials/4",
+              "essentials/5",
+              "essentials/6",
+              "essentials/7",
+              "essentials/8",
+              "essentials/9",
+              "essentials/10",
+              "essentials/11",
+              "essentials/12",
+              "essentials/13",
+              "essentials/14",
+              "essentials/15",
+              "essentials/16",
+              "essentials/17",
+              "essentials/18",
+              "essentials/19",
+              "essentials/20"
             ]
           }
         ]
@@ -58,19 +51,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Website",
+          "href": "https://nocteria.com",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Mağaza",
+          "href": "https://nocteria.com/store",
           "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
@@ -79,24 +67,8 @@
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
 }
