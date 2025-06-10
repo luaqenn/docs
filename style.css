@@ -1,0 +1,5 @@
+.logo img, /* veya logo SVG */
+.logo svg {
+  width: 200px;
+  height: auto;
+}
