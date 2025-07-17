@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Nocteria | Wiki",
+  "name": "Minezio | Wiki",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,38 +11,38 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "discord.gg/nocteria",
+        "tab": "discord.gg/minezio",
         "groups": [
           {
-            "group": "Giriş Bilgilendirme",
+            "group": "Hoşgeldin",
             "pages": [
-              "bilgisayar",
-              "ozelkaynakpaketi"
+              "yardımcı",
+              "yardım"
             ]
           },
           {
-            "group": "Sistem Bilgilendirme",
+            "group": "Wiki",
             "pages": [
-              "sistemler/Yükseltmeler",
-              "sistemler/2",
-              "sistemler/3",
-              "sistemler/4",
-              "sistemler/5",
-              "sistemler/6",
-              "sistemler/7",
-              "sistemler/8",
-              "sistemler/9",
-              "sistemler/10",
-              "sistemler/11",
-              "sistemler/12",
-              "sistemler/13",
-              "sistemler/14",
-              "sistemler/15",
-              "sistemler/16",
-              "sistemler/17",
-              "sistemler/18",
-              "sistemler/19",
-              "sistemler/20"
+              "hizmetlerimiz/1",
+              "hizmetlerimiz/2",
+              "hizmetlerimiz/3",
+              "hizmetlerimiz/4",
+              "hizmetlerimiz/5",
+              "hizmetlerimiz/6",
+              "hizmetlerimiz/7",
+              "hizmetlerimiz/8",
+              "hizmetlerimiz/9",
+              "hizmetlerimiz/10",
+              "hizmetlerimiz/11",
+              "hizmetlerimiz/12",
+              "hizmetlerimiz/13",
+              "hizmetlerimiz/14",
+              "hizmetlerimiz/15",
+              "hizmetlerimiz/16",
+              "hizmetlerimiz/17",
+              "hizmetlerimiz/18",
+              "hizmetlerimiz/19",
+              "hizmetlerimiz/20"
             ]
           }
         ]
@@ -52,12 +52,12 @@
       "anchors": [
         {
           "anchor": "Website",
-          "href": "https://nocteria.com",
+          "href": "https://minezio.com",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Mağaza",
-          "href": "https://nocteria.com/store",
+          "href": "https://minezio.com",
           "icon": "slack"
         }
       ]
